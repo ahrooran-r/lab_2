@@ -39,7 +39,7 @@ The tests are run with following parameters (small values because the output wou
 4. BUS_MEAN_SPAWN_RATE = 12000
 5. BUSES = 3
 
-Following are test outpuuts:
+Following are test outputs:
 
 ![1](https://user-images.githubusercontent.com/46846338/133254338-589f4e07-c67d-449e-9689-23fe26be5d2f.png)
 ![2](https://user-images.githubusercontent.com/46846338/133254345-3d2597f0-79b3-476b-9487-004a26b90a75.png)
